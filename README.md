@@ -1,12 +1,12 @@
 # WhiteHats Recruitment Task - 2026
 
 ## 1. Name
-[Your Name Here]
+SREEDEV P
 
 ## 2. Why I want to join WhiteHats
-As a first-year Cybersecurity student at VIT, I am eager to move beyond theory and get hands-on with real-world security challenges. I’ve been practicing with Kali Linux and learning Python for automation, and I want to join WhiteHats to collaborate with like-minded peers, participate in CTFs, and contribute to the club's mission of building a secure digital environment.
+As a first-year student specializing in Cybersecurity, I want to move beyond just reading about threats and start learning how to defend against them. I'm currently teaching myself Linux (Kali) and basic Python scripting. I want to join WhiteHats because I believe being part of a community is the best way to bridge the gap between classroom theory and real-world application.
 
 ## 3. Recent Cybersecurity Incident (February 2026)
-I recently read about the **Microsoft February 2026 Patch Tuesday**, where Microsoft addressed 60 vulnerabilities, including **six actively exploited zero-days**. 
+I recently followed the **Microsoft February 2026 Patch Tuesday** updates. Microsoft had to fix 60 different security holes, including **six "Zero-Day" vulnerabilities** that were already being used by attackers in the wild.
 
-One of the most critical was **CVE-2026-21510**, a Windows Shell security feature bypass. This vulnerability allowed attackers to bypass Windows SmartScreen protections simply by tricking a user into clicking a malicious link. This incident highlights the ongoing battle against "initial access" vectors and the critical importance of rapid patching in enterprise environments.
+What caught my attention was **CVE-2026-21510**, which allowed attackers to bypass Windows SmartScreen protections. It showed me that even a "simple" link or shortcut file can be used to trick a computer into running malicious code without the user ever seeing a warning. This incident really highlighted for me why "user trust" is such a huge target for hackers and why keeping software updated is the first line of defense.
